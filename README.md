@@ -6,4 +6,4 @@
 多源选择，工具安装选择htop curl vim net-tools lsof git unzip wget：
 
 
-bash -c "$(curl -fsSL https://gh-proxy.com/https://raw.githubusercontent.com/goodmen001/oneclick-pve/refs/heads/main/9.sh)"
+bash -c "$(curl -fsSL https://gh-proxy.com/https://raw.githubusercontent.com/goodmen001/oneclick-pve/refs/heads/main/10.sh)"
